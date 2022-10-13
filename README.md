@@ -49,7 +49,7 @@ Use milestone to accidently deploying old version over a new version
 ```bash
   milestone(1)
 ```
-##Create build agent on a second server 
+## Create build agent on a second server 
 
 * Login slave from master using ssh
 * Create user's home directory at worker node
